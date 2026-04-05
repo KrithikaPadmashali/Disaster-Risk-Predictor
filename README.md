@@ -35,6 +35,7 @@ The model uses the following features:
 
 ---
 ## Project Structure
+```
 Disaster-Risk-Predictor/
 │
 ├── data/
@@ -56,7 +57,7 @@ Disaster-Risk-Predictor/
 ├── README.md
 └── requirements.txt
 
-
+```
 ---
 
 ## ⚙️ Installation & Setup

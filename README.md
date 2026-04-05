@@ -67,5 +67,4 @@ Disaster-Risk-Predictor/
 git clone https://github.com/KrithikaPadmashali/Disaster-Risk-Predictor.git
 cd Disaster-Risk-Predictor
 
-
-## 🏗️ Project Structure
+```
